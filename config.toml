@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+defaultContentLanguage = "en"
+languageCode = "en-us"
+title = "A menu test site"
+theme = "test"
