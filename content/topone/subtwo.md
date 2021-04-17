@@ -1,11 +1,11 @@
 ---
-Title: "Title for the second sub page of first top page"
-Menu:
+title: "Title for the second sub page of first top page"
+menu:
   main:
     title: "Title within menu for second sub of first top"
-    Name: "Name for Second Sub page of first top page"
-    LinkTitle: "Link title for first sub page of first top page"
-    Weight: 140
+    name: "Name for Second Sub page of first top page"
+    linkTitle: "Link title for first sub page of first top page"
+    weight: 140
     identifier: "subtwotopone"
     parent: "topone"
 ---

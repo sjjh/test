@@ -1,13 +1,13 @@
 ---
-Title: "Title for first top page"
-Date: "2021-02-20T18:05:19+01:00"
-Menu:
+title: "Title for first top page"
+date: "2021-02-20T18:05:19+01:00"
+menu:
   main:
     title: "Title within menu for first top page"
-    Name: "Name for First Top page"
-    LinkTitle: "Link Title for first top page"
-    Weight: 100
-    Identifier: "topone"
+    name: "Name for First Top page"
+    linkTitle: "Link Title for first top page"
+    weight: 100
+    identifier: "topone"
 ---
 
 ## A first top page

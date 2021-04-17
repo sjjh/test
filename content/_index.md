@@ -1,6 +1,6 @@
 ---
-Title: "The Startpage"
-Date: "2021-02-20T18:05:19+01:00"
+title: "The Startpage"
+date: "2021-02-20T18:05:19+01:00"
 ---
 
 ## A Heading

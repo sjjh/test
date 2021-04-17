@@ -1,13 +1,13 @@
 ---
-Title: "title for first sub page of first top page"
-Menu:
+title: "title for first sub page of first top page"
+menu:
   main:
     title: "Title within menu for first sub of first top"
-    Name: "name for Fist Sub page of first top page"
-    LinkTitle: "Link title for first sub page of first top page"
-    Weight: 120
-    Identifier: "subonetopone"
-    Parent: "topone"
+    name: "name for Fist Sub page of first top page"
+    linkTitle: "Link title for first sub page of first top page"
+    weight: 120
+    identifier: "subonetopone"
+    parent: "topone"
 ---
 
 ## A first sub page of first top page
